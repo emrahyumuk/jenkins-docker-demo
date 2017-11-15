@@ -1,0 +1,21 @@
+{
+    "name": "jenkins-dockerized-nodejs-sample",
+    "version": "1.0.0",
+    "description": "Jenkins Dockerized Node.js App",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node main.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/emrahyumuk/test-jenkins/"
+    },
+    "keywords": [
+      "node",
+      "docker",
+      "dockerfile"
+    ],
+    "author": "emrahyumuk@gmail.com",
+    "license": "ISC"
+  }
