@@ -1,2 +1,2 @@
-# test-jenkins
-Test project for jenkins CI
+# jenkins-docker-demo
+Demo project for jenkins CI
